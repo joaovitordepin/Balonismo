@@ -5,9 +5,11 @@ public class Main {
 
 
         Pessoa p1 = new Pessoa();
+        Pessoa p2;
+        Pessoa p3;
 
-        Pessoa p2; new Pessoa();
-        Pessoa p3; new Pessoa();// declaração do objeto
+        p2 = new Pessoa();
+        p3 = new Pessoa();// declaração do objeto
          // construção
 
 
@@ -30,5 +32,6 @@ public class Main {
 
         p3.nome = "Piloto";
         p3.cpf = "422.037.690.00";
+        p3.proAnac = "099785248";
     }
 }

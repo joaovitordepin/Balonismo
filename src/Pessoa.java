@@ -17,6 +17,8 @@ public class Pessoa {
 
     String proAnac;
 
+    boolean termodecontrato;
+
     //Métodos
     public void pesquisarEmpresa(){
 
